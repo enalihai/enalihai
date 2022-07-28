@@ -1,1 +1,1 @@
-![enalihai's github stats](https://github-readme-stats.vercel.app/api?username=enalihai)
+![enalihai's github stats](https://github-readme-stats.vercel.app/api?username=enalihai&show_icons=true&theme=dark)
